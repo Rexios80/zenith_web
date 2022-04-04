@@ -14,12 +14,6 @@ dev_dependencies:
     sdk: flutter
 
   rexios_lints: ^1.0.0
-  flutter_launcher_icons_maker: ^0.10.2
 
 flutter:
   uses-material-design: true
-
-# flutter pub run flutter_launcher_icons_maker:main
-flutter_icons:
-  web: true
-  image_path: "assets/icon/icon.png"
